@@ -1,2 +1,2 @@
 # first-project
-"Questo repository è per esercitarsi con GitHub Flow".
+"Questo repository è per esercitarsi con GitHub Flow"!
